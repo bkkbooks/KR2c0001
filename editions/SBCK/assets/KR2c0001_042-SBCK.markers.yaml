@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2c0001_SBCK_042-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR2c0001_SBCK_042-bkkind1}
   - {type: punctuation, offset: 4, content: (, id: KR2c0001_SBCK_042-bkkpn1}
+  - {type: voice, offset: 4, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 11, content: ), id: KR2c0001_SBCK_042-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -768,6 +769,7 @@ markers:
       ', id: KR2c0001_SBCK_042-bkkkrnewl185}
   - {type: line-break, offset: 3140, content: '', id: KR2c0001_SBCK_042-8b06}
   - {type: punctuation, offset: 3148, content: (, id: KR2c0001_SBCK_042-bkkpn3}
+  - {type: voice, offset: 3148, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 3151, content: /, id: KR2c0001_SBCK_042-bkkpn4}
   - {type: punctuation, offset: 3154, content: ), id: KR2c0001_SBCK_042-bkkpn5}
   - {type: 'kr:newline', offset: 3160, content: '
@@ -2966,6 +2968,7 @@ markers:
       ', id: KR2c0001_SBCK_042-bkkkrnewl724}
   - {type: line-break, offset: 12461, content: '', id: KR2c0001_SBCK_042-31a05}
   - {type: punctuation, offset: 12477, content: (, id: KR2c0001_SBCK_042-bkkpn6}
+  - {type: voice, offset: 12477, length: 40, name: note, id: n3}
   - {type: punctuation, offset: 12480, content: /, id: KR2c0001_SBCK_042-bkkpn7}
   - {type: punctuation, offset: 12483, content: ), id: KR2c0001_SBCK_042-bkkpn8}
   - {type: 'kr:newline', offset: 12483, content: '
@@ -6367,6 +6370,7 @@ markers:
   - {type: line-break, offset: 26720, content: '', id: KR2c0001_SBCK_042-65b04}
   - {type: indent, offset: 26720, content: 　　　, id: KR2c0001_SBCK_042-bkkind144}
   - {type: punctuation, offset: 26724, content: (, id: KR2c0001_SBCK_042-bkkpn12}
+  - {type: voice, offset: 26724, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 26730, content: ), id: KR2c0001_SBCK_042-bkkpn13}
   - {type: 'kr:newline', offset: 26730, content: '
 
@@ -12357,4 +12361,4 @@ markers:
 
       ', id: KR2c0001_SBCK_042-bkkkrnewl3015}
   back: []
-hash: sha256:ed1aef3d8444363f99ba7b0944da6dc7f4fe6718e6cf1ce3f8d9760b2412d0a2
+hash: sha256:f68f0c5924c50b3d7d507392a208bcf801bc5f5d93f60b7fc7320b3af0808113

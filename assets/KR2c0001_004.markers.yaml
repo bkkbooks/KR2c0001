@@ -3939,6 +3939,7 @@ markers:
   - {type: substitution, offset: 13128, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 13139, content: (, id: KR2c0001_krp_004-bkkpn1}
   - {type: variant, offset: 13139, length: 0, content: '', WYG: 天漢元年蘇}
+  - {type: voice, offset: 13139, length: 16, name: note, id: n1}
   - {type: substitution, offset: 13141, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 13144, content: /, id: KR2c0001_krp_004-bkkpn2}
   - {type: variant, offset: 13144, length: 5, content: 天漢元年蘇, WYG: 見武帝}
@@ -11332,4 +11333,4 @@ markers:
       ', id: KR2c0001_krp_004-bkkkrnewl2255}
   - {type: variant, offset: 38264, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:0cfc5132222ea745ca979adfc4f060455c44fe135fac8443d25222e9c83e4649
+hash: sha256:4d8912f365cfacecac038c127814ca1baaca5b4555ec34a67b16a81bbeeadf7a

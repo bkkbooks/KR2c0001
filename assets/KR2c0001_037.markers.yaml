@@ -4696,6 +4696,7 @@ markers:
   - {type: line-break, offset: 15410, content: '', id: KR2c0001_SBCK_037-38b07}
   - {type: punctuation, offset: 15424, content: (, id: KR2c0001_krp_037-bkkpn1}
   - {type: variant, offset: 15424, length: 5, content: 事見諸鎮相, WYG: ''}
+  - {type: voice, offset: 15424, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 15429, content: /, id: KR2c0001_krp_037-bkkpn2}
   - {type: punctuation, offset: 15434, content: ), id: KR2c0001_krp_037-bkkpn3}
   - {type: 'kr:newline', offset: 15434, content: '
@@ -6158,6 +6159,7 @@ markers:
   - {type: line-break, offset: 20616, content: '', id: KR2c0001_SBCK_037-51a11}
   - {type: punctuation, offset: 20633, content: (, id: KR2c0001_krp_037-bkkpn6}
   - {type: variant, offset: 20633, length: 4, content: 御名太上, WYG: 構}
+  - {type: voice, offset: 20633, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 20635, content: /, id: KR2c0001_krp_037-bkkpn7}
   - {type: punctuation, offset: 20637, content: ), id: KR2c0001_krp_037-bkkpn8}
   - {type: 'kr:newline', offset: 20638, content: '
@@ -6324,6 +6326,7 @@ markers:
   - {type: line-break, offset: 21225, content: '', id: KR2c0001_SBCK_037-52b10}
   - {type: punctuation, offset: 21225, content: (, id: KR2c0001_krp_037-bkkpn9}
   - {type: variant, offset: 21225, length: 4, content: 御名太上, WYG: 搆}
+  - {type: voice, offset: 21225, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 21227, content: /, id: KR2c0001_krp_037-bkkpn10}
   - {type: punctuation, offset: 21229, content: ), id: KR2c0001_krp_037-bkkpn11}
   - {type: 'kr:newline', offset: 21247, content: '
@@ -6775,6 +6778,7 @@ markers:
   - {type: line-break, offset: 22785, content: '', id: KR2c0001_SBCK_037-56b05}
   - {type: punctuation, offset: 22802, content: (, id: KR2c0001_krp_037-bkkpn12}
   - {type: variant, offset: 22802, length: 0, content: '', WYG: 張濬}
+  - {type: voice, offset: 22802, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 22804, content: /, id: KR2c0001_krp_037-bkkpn13}
   - {type: variant, offset: 22804, length: 2, content: 張濬, WYG: 謫徙事見}
   - {type: punctuation, offset: 22806, content: ), id: KR2c0001_krp_037-bkkpn14}
@@ -7434,6 +7438,7 @@ markers:
   - {type: line-break, offset: 25052, content: '', id: KR2c0001_SBCK_037-62a05}
   - {type: punctuation, offset: 25067, content: (, id: KR2c0001_krp_037-bkkpn18}
   - {type: variant, offset: 25067, length: 1, content: 御, WYG: 構}
+  - {type: voice, offset: 25067, length: 4, name: note, id: n5}
   - {type: variant, offset: 25068, length: 1, content: 名, WYG: 于}
   - {type: punctuation, offset: 25069, content: /, id: KR2c0001_krp_037-bkkpn19}
   - {type: variant, offset: 25069, length: 1, content: 太, WYG: 是}
@@ -13559,6 +13564,7 @@ markers:
   - {type: line-break, offset: 45157, content: '', id: KR2c0001_SBCK_037-111b02}
   - {type: punctuation, offset: 45164, content: (, id: KR2c0001_krp_037-bkkpn21}
   - {type: variant, offset: 45164, length: 0, content: '', WYG: 時三鎮}
+  - {type: voice, offset: 45164, length: 5, name: note, id: n6}
   - {type: punctuation, offset: 45166, content: /, id: KR2c0001_krp_037-bkkpn22}
   - {type: variant, offset: 45166, length: 3, content: 時王鎮, WYG: ''}
   - {type: punctuation, offset: 45169, content: ), id: KR2c0001_krp_037-bkkpn23}
@@ -14151,6 +14157,7 @@ markers:
   - {type: line-break, offset: 47095, content: '', id: KR2c0001_SBCK_037-116a10}
   - {type: punctuation, offset: 47095, content: (, id: KR2c0001_krp_037-bkkpn24}
   - {type: variant, offset: 47095, length: 0, content: '', WYG: 時朱全忠刼}
+  - {type: voice, offset: 47095, length: 10, name: note, id: n7}
   - {type: punctuation, offset: 47100, content: /, id: KR2c0001_krp_037-bkkpn25}
   - {type: variant, offset: 47100, length: 5, content: 時朱全忠刼, WYG: ''}
   - {type: substitution, offset: 47104, original: 刼, replacement: 劫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16479}}
@@ -14332,4 +14339,4 @@ markers:
       ', id: KR2c0001_krp_037-bkkkrnewl2804}
   - {type: variant, offset: 47638, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:9b0a8fbcf6ba9c8705d5ca74b231fd623fd88bca2c094be913c61d7c6ce8c872
+hash: sha256:3d20837d4849f45d267dff8bfbc72199f97645d646f90f9b25d5fa1ad825b22c

@@ -18,6 +18,7 @@ markers:
   - {type: indent, offset: 0, content: 　　　, id: KR2c0001_krp_042-bkkind1}
   - {type: variant, offset: 3, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 4, content: (, id: KR2c0001_krp_042-bkkpn1}
+  - {type: voice, offset: 4, length: 7, name: note, id: n1}
   - {type: variant, offset: 8, length: 1, content: 汁, WYG: 汴}
   - {type: punctuation, offset: 11, content: ), id: KR2c0001_krp_042-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
@@ -1136,6 +1137,7 @@ markers:
   - {type: line-break, offset: 3140, content: '', id: KR2c0001_SBCK_042-8b06}
   - {type: punctuation, offset: 3148, content: (, id: KR2c0001_krp_042-bkkpn3}
   - {type: variant, offset: 3148, length: 0, content: '', WYG: 事見范}
+  - {type: voice, offset: 3148, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 3151, content: /, id: KR2c0001_krp_042-bkkpn4}
   - {type: variant, offset: 3151, length: 3, content: 事見范, WYG: ''}
   - {type: punctuation, offset: 3154, content: ), id: KR2c0001_krp_042-bkkpn5}
@@ -4409,6 +4411,7 @@ markers:
   - {type: variant, offset: 12474, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 12477, content: (, id: KR2c0001_krp_042-bkkpn6}
   - {type: variant, offset: 12477, length: 0, content: '', WYG: 天福七}
+  - {type: voice, offset: 12477, length: 40, name: note, id: n3}
   - {type: substitution, offset: 12479, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 12480, content: /, id: KR2c0001_krp_042-bkkpn7}
   - {type: variant, offset: 12480, length: 3, content: 天福七, WYG: 澤獲亡將楊洪斷其手足斬之朝義節度使}
@@ -9390,6 +9393,7 @@ markers:
   - {type: variant, offset: 26720, length: 0, content: '', WYG: 通鑑紀事本末卷四十二上欽定四庫全書通鑑紀事本末卷四十二下宋袁樞撰}
   - {type: page-break, offset: 26720, content: '', id: KR2c0001_WYG_042-82a, image: WYG0348/WYG0348-0239a.png}
   - {type: punctuation, offset: 26724, content: (, id: KR2c0001_krp_042-bkkpn12}
+  - {type: voice, offset: 26724, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 26730, content: ), id: KR2c0001_krp_042-bkkpn13}
   - {type: 'kr:newline', offset: 26730, content: '
 
@@ -18052,4 +18056,4 @@ markers:
       ', id: KR2c0001_krp_042-bkkkrnewl3015}
   - {type: variant, offset: 51512, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:e1dd646d59648f456d3ea23ae84f34bfd6d3b66727723c8e35a0f901622cb62a
+hash: sha256:5e563fbc8c1df922837750829142f50abeddb7e329ab1873301681e820f86d53

@@ -35,6 +35,7 @@ markers:
   - {type: line-break, offset: 61, content: '', id: KR2c0001_SBCK_038-1a06}
   - {type: punctuation, offset: 79, content: (, id: KR2c0001_krp_038-bkkpn1}
   - {type: variant, offset: 79, length: 0, content: '', WYG: 先}
+  - {type: voice, offset: 79, length: 25, name: note, id: n1}
   - {type: punctuation, offset: 80, content: /, id: KR2c0001_krp_038-bkkpn2}
   - {type: variant, offset: 80, length: 12, content: 先稱留後至是遂授以節度使, WYG: ''}
   - {type: punctuation, offset: 81, content: ), id: KR2c0001_krp_038-bkkpn3}
@@ -152,6 +153,7 @@ markers:
   - {type: substitution, offset: 410, original: 忻, replacement: 欣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19812}}
   - {type: punctuation, offset: 425, content: (, id: KR2c0001_krp_038-bkkpn7}
   - {type: variant, offset: 425, length: 3, content: 用歸唐, WYG: ''}
+  - {type: voice, offset: 425, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 428, content: /, id: KR2c0001_krp_038-bkkpn8}
   - {type: punctuation, offset: 432, content: ), id: KR2c0001_krp_038-bkkpn9}
   - {type: 'kr:newline', offset: 432, content: '
@@ -2146,6 +2148,7 @@ markers:
   - {type: page-break, offset: 7423, content: '', id: KR2c0001_WYG_038-24a, image: WYG0348/WYG0348-0055a.png}
   - {type: punctuation, offset: 7427, content: (, id: KR2c0001_krp_038-bkkpn10}
   - {type: variant, offset: 7427, length: 0, content: '', WYG: 君}
+  - {type: voice, offset: 7427, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 7428, content: /, id: KR2c0001_krp_038-bkkpn11}
   - {type: variant, offset: 7428, length: 1, content: 君, WYG: ''}
   - {type: punctuation, offset: 7429, content: ), id: KR2c0001_krp_038-bkkpn12}
@@ -2242,6 +2245,7 @@ markers:
   - {type: punctuation, offset: 7757, content: (, id: KR2c0001_krp_038-bkkpn13}
   - {type: variant, offset: 7757, length: 0, content: '', WYG: 兵}
   - {type: substitution, offset: 7757, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: voice, offset: 7757, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 7758, content: /, id: KR2c0001_krp_038-bkkpn14}
   - {type: variant, offset: 7758, length: 1, content: 兵, WYG: ''}
   - {type: punctuation, offset: 7759, content: ), id: KR2c0001_krp_038-bkkpn15}
@@ -3669,6 +3673,7 @@ markers:
   - {type: line-break, offset: 12909, content: '', id: KR2c0001_SBCK_038-32b06}
   - {type: punctuation, offset: 12927, content: (, id: KR2c0001_krp_038-bkkpn16}
   - {type: variant, offset: 12927, length: 0, content: '', WYG: 鄆}
+  - {type: voice, offset: 12927, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 12928, content: /, id: KR2c0001_krp_038-bkkpn17}
   - {type: variant, offset: 12928, length: 1, content: 鄆, WYG: ''}
   - {type: punctuation, offset: 12929, content: ), id: KR2c0001_krp_038-bkkpn18}
@@ -5915,6 +5920,7 @@ markers:
   - {type: substitution, offset: 20986, original: 簒, replacement: 篡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20803}}
   - {type: punctuation, offset: 20988, content: (, id: KR2c0001_krp_038-bkkpn19}
   - {type: variant, offset: 20988, length: 6, content: 崔裔誅宦官附, WYG: ''}
+  - {type: voice, offset: 20988, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 20994, content: ), id: KR2c0001_krp_038-bkkpn20}
   - {type: 'kr:newline', offset: 20994, content: '
 
@@ -10996,6 +11002,7 @@ markers:
   - {type: line-break, offset: 38570, content: '', id: KR2c0001_SBCK_038-95a02}
   - {type: indent, offset: 38570, content: 　　　, id: KR2c0001_krp_038-bkkind263}
   - {type: punctuation, offset: 38575, content: (, id: KR2c0001_krp_038-bkkpn21}
+  - {type: voice, offset: 38575, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 38580, content: ), id: KR2c0001_krp_038-bkkpn22}
   - {type: 'kr:newline', offset: 38580, content: '
 
@@ -11036,6 +11043,7 @@ markers:
   - {type: punctuation, offset: 38684, content: (, id: KR2c0001_krp_038-bkkpn23}
   - {type: variant, offset: 38684, length: 3, content: 鎭之亂, WYG: ''}
   - {type: substitution, offset: 38684, original: 鎭, replacement: 鎮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19899}}
+  - {type: voice, offset: 38684, length: 6, name: note, id: n8}
   - {type: punctuation, offset: 38687, content: /, id: KR2c0001_krp_038-bkkpn24}
   - {type: punctuation, offset: 38690, content: ), id: KR2c0001_krp_038-bkkpn25}
   - {type: 'kr:newline', offset: 38690, content: '
@@ -11072,6 +11080,7 @@ markers:
   - {type: punctuation, offset: 38775, content: (, id: KR2c0001_krp_038-bkkpn26}
   - {type: variant, offset: 38775, length: 3, content: 温篡唐, WYG: ''}
   - {type: substitution, offset: 38775, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
+  - {type: voice, offset: 38775, length: 6, name: note, id: n9}
   - {type: punctuation, offset: 38778, content: /, id: KR2c0001_krp_038-bkkpn27}
   - {type: page-break, offset: 38778, content: '', id: KR2c0001_WYG_038-120a, image: missing/missing}
   - {type: punctuation, offset: 38781, content: ), id: KR2c0001_krp_038-bkkpn28}
@@ -11095,6 +11104,7 @@ markers:
   - {type: punctuation, offset: 38830, content: (, id: KR2c0001_krp_038-bkkpn29}
   - {type: variant, offset: 38830, length: 3, content: 温篡唐, WYG: ''}
   - {type: substitution, offset: 38830, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
+  - {type: voice, offset: 38830, length: 6, name: note, id: n10}
   - {type: punctuation, offset: 38833, content: /, id: KR2c0001_krp_038-bkkpn30}
   - {type: punctuation, offset: 38836, content: ), id: KR2c0001_krp_038-bkkpn31}
   - {type: variant, offset: 38836, length: 0, content: '', WYG: 温簒唐}
@@ -12129,4 +12139,4 @@ markers:
       ', id: KR2c0001_krp_038-bkkkrnewl2498}
   - {type: variant, offset: 42446, length: 0, content: '', WYG: 國節度使太原張彦澤邀擊盡詸之通鑑紀事本末卷三十八下}
   back: []
-hash: sha256:4b310acc8d05ebb0be8e5d30a504773d359977ea0dffb1e166622506e6d37123
+hash: sha256:6fd7ff24c138295182d54662f51e18bdef9613bbaca9efa95d78c37c306971a1

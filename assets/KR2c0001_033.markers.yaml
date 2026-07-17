@@ -320,6 +320,7 @@ markers:
   - {type: substitution, offset: 889, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 894, content: (, id: KR2c0001_krp_033-bkkpn1}
   - {type: variant, offset: 894, length: 0, content: '', WYG: 事見安}
+  - {type: voice, offset: 894, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 897, content: /, id: KR2c0001_krp_033-bkkpn2}
   - {type: variant, offset: 897, length: 3, content: 事見安, WYG: ''}
   - {type: punctuation, offset: 900, content: ), id: KR2c0001_krp_033-bkkpn3}
@@ -1809,6 +1810,7 @@ markers:
   - {type: substitution, offset: 5199, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 5202, content: (, id: KR2c0001_krp_033-bkkpn4}
   - {type: variant, offset: 5202, length: 0, content: '', WYG: 元載遺策語}
+  - {type: voice, offset: 5202, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 5207, content: /, id: KR2c0001_krp_033-bkkpn5}
   - {type: variant, offset: 5207, length: 5, content: 元載遺䇿語, WYG: ''}
   - {type: punctuation, offset: 5212, content: ), id: KR2c0001_krp_033-bkkpn6}
@@ -16889,4 +16891,4 @@ markers:
       ', id: KR2c0001_krp_033-bkkkrnewl2942}
   - {type: variant, offset: 50660, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:bee91266ba4d32dcafef81774300ab57a37e37919c0104bd08084c1588557f12
+hash: sha256:8381e36e4eb1ca363ad872d13b848a093e56de22098d78ea407946f0cfbfdf9b

@@ -8725,6 +8725,7 @@ markers:
   - {type: line-break, offset: 29492, content: '', id: KR2c0001_SBCK_025-72b03}
   - {type: punctuation, offset: 29502, content: (, id: KR2c0001_krp_025-bkkpn1}
   - {type: variant, offset: 29502, length: 9, content: 叔父安平王巖弟義與, WYG: ''}
+  - {type: voice, offset: 29502, length: 22, name: note, id: n1}
   - {type: punctuation, offset: 29511, content: /, id: KR2c0001_krp_025-bkkpn2}
   - {type: punctuation, offset: 29520, content: ), id: KR2c0001_krp_025-bkkpn3}
   - {type: 'kr:newline', offset: 29520, content: '
@@ -13423,4 +13424,4 @@ markers:
       ', id: KR2c0001_krp_025-bkkkrnewl2655}
   - {type: variant, offset: 45650, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:4fa38348f16b0d9110491531d509071237db98c39fa31f4f31c6a634bbef7c18
+hash: sha256:b5a0cdb1db2d9364fd9a697e7422ec75805195c41ac30a5da76f5ab795eb45ba

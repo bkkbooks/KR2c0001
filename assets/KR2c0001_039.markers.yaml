@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2c0001_SBCK_039-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR2c0001_krp_039-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR2c0001_krp_039-bkkpn1}
+  - {type: voice, offset: 5, length: 5, name: note, id: n1}
   - {type: variant, offset: 7, length: 1, content: 僣, WYG: 僭}
   - {type: punctuation, offset: 10, content: ), id: KR2c0001_krp_039-bkkpn2}
   - {type: 'kr:newline', offset: 10, content: '
@@ -51,6 +52,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: KR2c0001_SBCK_039-1a09}
   - {type: punctuation, offset: 136, content: (, id: KR2c0001_krp_039-bkkpn3}
   - {type: variant, offset: 136, length: 7, content: 山鎭遏使王郢等, WYG: ''}
+  - {type: voice, offset: 136, length: 47, name: note, id: n2}
   - {type: substitution, offset: 137, original: 鎭, replacement: 鎮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19899}}
   - {type: punctuation, offset: 143, content: /, id: KR2c0001_krp_039-bkkpn4}
   - {type: punctuation, offset: 150, content: ), id: KR2c0001_krp_039-bkkpn5}
@@ -85,6 +87,7 @@ markers:
   - {type: punctuation, offset: 238, content: (, id: KR2c0001_krp_039-bkkpn9}
   - {type: variant, offset: 238, length: 0, content: '', WYG: 事見}
   - {type: substitution, offset: 238, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
+  - {type: voice, offset: 238, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 240, content: /, id: KR2c0001_krp_039-bkkpn10}
   - {type: variant, offset: 240, length: 2, content: 事見, WYG: 之}
   - {type: punctuation, offset: 242, content: ), id: KR2c0001_krp_039-bkkpn11}
@@ -444,6 +447,7 @@ markers:
   - {type: variant, offset: 1359, length: 0, content: '', WYG: 代}
   - {type: punctuation, offset: 1360, content: (, id: KR2c0001_krp_039-bkkpn15}
   - {type: variant, offset: 1360, length: 0, content: '', WYG: 錢鏐與楊}
+  - {type: voice, offset: 1360, length: 17, name: note, id: n4}
   - {type: substitution, offset: 1361, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: punctuation, offset: 1364, content: /, id: KR2c0001_krp_039-bkkpn16}
   - {type: variant, offset: 1364, length: 8, content: 錢鏐與楊宻據淮南, WYG: ''}
@@ -1584,6 +1588,7 @@ markers:
   - {type: line-break, offset: 5260, content: '', id: KR2c0001_SBCK_039-14a07}
   - {type: punctuation, offset: 5261, content: (, id: KR2c0001_krp_039-bkkpn21}
   - {type: variant, offset: 5261, length: 6, content: 楊行密據淮南, WYG: ''}
+  - {type: voice, offset: 5261, length: 12, name: note, id: n5}
   - {type: punctuation, offset: 5267, content: /, id: KR2c0001_krp_039-bkkpn22}
   - {type: punctuation, offset: 5273, content: ), id: KR2c0001_krp_039-bkkpn23}
   - {type: variant, offset: 5273, length: 0, content: '', WYG: 楊行宻據淮南}
@@ -1747,6 +1752,7 @@ markers:
   - {type: line-break, offset: 5786, content: '', id: KR2c0001_SBCK_039-15b04}
   - {type: punctuation, offset: 5801, content: (, id: KR2c0001_krp_039-bkkpn24}
   - {type: variant, offset: 5801, length: 0, content: '', WYG: 是嵗吳楊}
+  - {type: voice, offset: 5801, length: 27, name: note, id: n6}
   - {type: punctuation, offset: 5805, content: /, id: KR2c0001_krp_039-bkkpn25}
   - {type: variant, offset: 5805, length: 13, content: 是歳呉楊茂章奔兩浙更名景仁, WYG: ''}
   - {type: substitution, offset: 5806, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
@@ -8682,6 +8688,7 @@ markers:
   - {type: page-break, offset: 28477, content: '', id: KR2c0001_WYG_039-91b, image: missing/missing}
   - {type: punctuation, offset: 28485, content: (, id: KR2c0001_krp_039-bkkpn30}
   - {type: variant, offset: 28485, length: 0, content: '', WYG: 時世宗}
+  - {type: voice, offset: 28485, length: 6, name: note, id: n7}
   - {type: punctuation, offset: 28488, content: /, id: KR2c0001_krp_039-bkkpn31}
   - {type: variant, offset: 28488, length: 3, content: 時世宗, WYG: ''}
   - {type: punctuation, offset: 28491, content: ), id: KR2c0001_krp_039-bkkpn32}
@@ -8896,6 +8903,7 @@ markers:
   - {type: substitution, offset: 29162, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 29168, content: (, id: KR2c0001_krp_039-bkkpn33}
   - {type: variant, offset: 29168, length: 0, content: '', WYG: 事見馬}
+  - {type: voice, offset: 29168, length: 7, name: note, id: n8}
   - {type: punctuation, offset: 29171, content: /, id: KR2c0001_krp_039-bkkpn34}
   - {type: variant, offset: 29171, length: 3, content: 事見馬, WYG: ''}
   - {type: punctuation, offset: 29174, content: ), id: KR2c0001_krp_039-bkkpn35}
@@ -9191,6 +9199,7 @@ markers:
   - {type: line-break, offset: 30144, content: '', id: KR2c0001_SBCK_039-77a07}
   - {type: punctuation, offset: 30146, content: (, id: KR2c0001_krp_039-bkkpn38}
   - {type: variant, offset: 30146, length: 0, content: '', WYG: 是嵗莊}
+  - {type: voice, offset: 30146, length: 6, name: note, id: n9}
   - {type: punctuation, offset: 30149, content: /, id: KR2c0001_krp_039-bkkpn39}
   - {type: variant, offset: 30149, length: 3, content: 是歳莊, WYG: ''}
   - {type: substitution, offset: 30150, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
@@ -12658,4 +12667,4 @@ markers:
       ', id: KR2c0001_krp_039-bkkkrnewl2535}
   - {type: variant, offset: 41806, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:80ad2d0f68da00b35702b16df2606e5ff61b1b42fa5fb351c018b40afd10b5f4
+hash: sha256:42168977bf225bd3c6c11323948fee2e986c9e88107427b125996d94f094af91

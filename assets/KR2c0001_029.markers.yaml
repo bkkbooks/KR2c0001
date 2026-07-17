@@ -5253,6 +5253,7 @@ markers:
   - {type: line-break, offset: 18190, content: '', id: KR2c0001_SBCK_029-45a08}
   - {type: punctuation, offset: 18196, content: (, id: KR2c0001_krp_029-bkkpn1}
   - {type: variant, offset: 18196, length: 0, content: '', WYG: 語見唐}
+  - {type: voice, offset: 18196, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 18199, content: /, id: KR2c0001_krp_029-bkkpn2}
   - {type: variant, offset: 18199, length: 4, content: 語見唐玄, WYG: 𤣥}
   - {type: punctuation, offset: 18202, content: ), id: KR2c0001_krp_029-bkkpn3}
@@ -16125,4 +16126,4 @@ markers:
       ', id: KR2c0001_krp_029-bkkkrnewl3264}
   - {type: variant, offset: 54736, length: 0, content: '', WYG: 通鑑紀事本末卷二十九下}
   back: []
-hash: sha256:ef4bb2fcec552e9821667ba81f1d74465778c5b0cb51b36353dfd22ac1a35ccc
+hash: sha256:56db490afda881746079b4582354c2956bda7c4206a1ca14c0cc36aeda09059c

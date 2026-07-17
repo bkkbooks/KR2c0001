@@ -1726,6 +1726,7 @@ markers:
   - {type: indent, offset: 6299, content: 　　　, id: KR2c0001_krp_031-bkkind19}
   - {type: punctuation, offset: 6303, content: (, id: KR2c0001_krp_031-bkkpn1}
   - {type: variant, offset: 6303, length: 0, content: '', WYG: 宇文融}
+  - {type: voice, offset: 6303, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 6305, content: /, id: KR2c0001_krp_031-bkkpn2}
   - {type: variant, offset: 6306, length: 5, content: 釗宇文融楊, WYG: ''}
   - {type: punctuation, offset: 6307, content: /, id: KR2c0001_krp_031-bkkpn3}
@@ -2238,6 +2239,7 @@ markers:
   - {type: line-break, offset: 8163, content: '', id: KR2c0001_SBCK_031-21a07}
   - {type: punctuation, offset: 8164, content: (, id: KR2c0001_krp_031-bkkpn7}
   - {type: variant, offset: 8164, length: 5, content: 見楊氏之寵, WYG: ''}
+  - {type: voice, offset: 8164, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 8169, content: /, id: KR2c0001_krp_031-bkkpn8}
   - {type: punctuation, offset: 8175, content: ), id: KR2c0001_krp_031-bkkpn9}
   - {type: 'kr:newline', offset: 8175, content: '
@@ -3009,6 +3011,7 @@ markers:
       ', id: KR2c0001_krp_031-bkkkrnewl651}
   - {type: line-break, offset: 10900, content: '', id: KR2c0001_SBCK_031-28a04}
   - {type: punctuation, offset: 10909, content: (, id: KR2c0001_krp_031-bkkpn10}
+  - {type: voice, offset: 10909, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 10912, content: /, id: KR2c0001_krp_031-bkkpn11}
   - {type: punctuation, offset: 10915, content: ), id: KR2c0001_krp_031-bkkpn12}
   - {type: 'kr:newline', offset: 10915, content: '
@@ -4712,6 +4715,7 @@ markers:
   - {type: line-break, offset: 17015, content: '', id: KR2c0001_SBCK_031-43a04}
   - {type: punctuation, offset: 17022, content: (, id: KR2c0001_krp_031-bkkpn13}
   - {type: variant, offset: 17022, length: 0, content: '', WYG: 事見楊}
+  - {type: voice, offset: 17022, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 17025, content: /, id: KR2c0001_krp_031-bkkpn14}
   - {type: variant, offset: 17025, length: 3, content: 事見揚, WYG: ''}
   - {type: punctuation, offset: 17028, content: ), id: KR2c0001_krp_031-bkkpn15}
@@ -13732,4 +13736,4 @@ markers:
       ', id: KR2c0001_krp_031-bkkkrnewl2959}
   - {type: variant, offset: 50617, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:1186183fb3735110e477684cf2c5720e719cf30075cead9375f379395e553779
+hash: sha256:1de02f55db14f020837a4efa9d092f85ec909e60360b96df3b643407698bfc18

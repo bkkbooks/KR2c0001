@@ -1186,6 +1186,7 @@ markers:
   - {type: line-break, offset: 3833, content: '', id: KR2c0001_SBCK_040-11a01}
   - {type: punctuation, offset: 3845, content: (, id: KR2c0001_krp_040-bkkpn1}
   - {type: variant, offset: 3845, length: 0, content: '', WYG: 詳見高氏}
+  - {type: voice, offset: 3845, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 3848, content: /, id: KR2c0001_krp_040-bkkpn2}
   - {type: variant, offset: 3848, length: 4, content: 事見髙氏, WYG: ''}
   - {type: punctuation, offset: 3852, content: ), id: KR2c0001_krp_040-bkkpn3}
@@ -1204,6 +1205,7 @@ markers:
   - {type: line-break, offset: 3883, content: '', id: KR2c0001_SBCK_040-11a04}
   - {type: punctuation, offset: 3892, content: (, id: KR2c0001_krp_040-bkkpn4}
   - {type: variant, offset: 3892, length: 0, content: '', WYG: 事見高氏}
+  - {type: voice, offset: 3892, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 3895, content: /, id: KR2c0001_krp_040-bkkpn5}
   - {type: variant, offset: 3895, length: 4, content: 事見髙氏, WYG: ''}
   - {type: punctuation, offset: 3899, content: ), id: KR2c0001_krp_040-bkkpn6}
@@ -7416,6 +7418,7 @@ markers:
   - {type: variant, offset: 25193, length: 5, content: 㓂晉王滅燕, WYG: 冦}
   - {type: substitution, offset: 25193, original: 㓂, replacement: 寇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19917}}
   - {type: punctuation, offset: 25194, content: (, id: KR2c0001_krp_040-bkkpn7}
+  - {type: voice, offset: 25194, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 25198, content: /, id: KR2c0001_krp_040-bkkpn8}
   - {type: punctuation, offset: 25203, content: ), id: KR2c0001_krp_040-bkkpn9}
   - {type: 'kr:newline', offset: 25203, content: '
@@ -14126,4 +14129,4 @@ markers:
       ', id: KR2c0001_krp_040-bkkkrnewl2855}
   - {type: variant, offset: 48380, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:6acb13db7c05dba4c9c2457965c5cd3f84b0910253477d98f17ff935daeca06e
+hash: sha256:0d09567942de0653d6df321aa173ded2f6cb639e95092efe8c0a86879269aa8e

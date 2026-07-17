@@ -640,6 +640,7 @@ markers:
   - {type: substitution, offset: 2128, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 2140, content: (, id: KR2c0001_krp_007-bkkpn1}
   - {type: variant, offset: 2140, length: 0, content: '', WYG: 單}
+  - {type: voice, offset: 2140, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2141, content: /, id: KR2c0001_krp_007-bkkpn2}
   - {type: variant, offset: 2141, length: 1, content: 單, WYG: ''}
   - {type: punctuation, offset: 2142, content: ), id: KR2c0001_krp_007-bkkpn3}
@@ -1673,6 +1674,7 @@ markers:
   - {type: substitution, offset: 5541, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 5546, content: (, id: KR2c0001_krp_007-bkkpn4}
   - {type: variant, offset: 5546, length: 3, content: 氏專恣, WYG: ''}
+  - {type: voice, offset: 5546, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 5549, content: /, id: KR2c0001_krp_007-bkkpn5}
   - {type: punctuation, offset: 5552, content: ), id: KR2c0001_krp_007-bkkpn6}
   - {type: variant, offset: 5552, length: 0, content: '', WYG: 氏専恣}
@@ -3558,6 +3560,7 @@ markers:
   - {type: line-break, offset: 11876, content: '', id: KR2c0001_SBCK_007-31a05}
   - {type: punctuation, offset: 11890, content: (, id: KR2c0001_krp_007-bkkpn7}
   - {type: variant, offset: 11890, length: 4, content: 御名太上, WYG: 搆}
+  - {type: voice, offset: 11890, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 11892, content: /, id: KR2c0001_krp_007-bkkpn8}
   - {type: punctuation, offset: 11894, content: ), id: KR2c0001_krp_007-bkkpn9}
   - {type: 'kr:newline', offset: 11898, content: '
@@ -5421,6 +5424,7 @@ markers:
   - {type: line-break, offset: 18244, content: '', id: KR2c0001_SBCK_007-47a07}
   - {type: punctuation, offset: 18251, content: (, id: KR2c0001_krp_007-bkkpn10}
   - {type: variant, offset: 18251, length: 4, content: 御名太上, WYG: 搆}
+  - {type: voice, offset: 18251, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 18253, content: /, id: KR2c0001_krp_007-bkkpn11}
   - {type: punctuation, offset: 18255, content: ), id: KR2c0001_krp_007-bkkpn12}
   - {type: 'kr:newline', offset: 18266, content: '
@@ -7593,6 +7597,7 @@ markers:
   - {type: variant, offset: 25345, length: 6, content: 虚無御名太上, WYG: 搆}
   - {type: substitution, offset: 25345, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 25347, content: (, id: KR2c0001_krp_007-bkkpn13}
+  - {type: voice, offset: 25347, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 25349, content: /, id: KR2c0001_krp_007-bkkpn14}
   - {type: punctuation, offset: 25351, content: ), id: KR2c0001_krp_007-bkkpn15}
   - {type: variant, offset: 25352, length: 0, content: '', WYG: 逆傾覆}
@@ -7633,6 +7638,7 @@ markers:
   - {type: variant, offset: 25461, length: 0, content: '', WYG: 妄造虚無搆讒}
   - {type: variant, offset: 25464, length: 9, content: 造御名太上讒逆傾覆, WYG: ''}
   - {type: punctuation, offset: 25465, content: (, id: KR2c0001_krp_007-bkkpn16}
+  - {type: voice, offset: 25465, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 25467, content: /, id: KR2c0001_krp_007-bkkpn17}
   - {type: punctuation, offset: 25469, content: ), id: KR2c0001_krp_007-bkkpn18}
   - {type: 'kr:newline', offset: 25472, content: '
@@ -11307,4 +11313,4 @@ markers:
       ', id: KR2c0001_krp_007-bkkkrnewl2271}
   - {type: variant, offset: 37693, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:a1f39a5ac02e5cbea92fad43100258e34cbab3e5e751656442520668c7fec64d
+hash: sha256:edd1c9676d59d2ae2fa33c00debbf51a252f45b8500ef3a1aa4920c7b6147138

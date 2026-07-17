@@ -369,6 +369,7 @@ markers:
   - {type: line-break, offset: 1281, content: '', id: KR2c0001_SBCK_010-4a05}
   - {type: punctuation, offset: 1282, content: (, id: KR2c0001_krp_010-bkkpn1}
   - {type: variant, offset: 1282, length: 0, content: '', WYG: 闗羽攻曹仁於樊}
+  - {type: voice, offset: 1282, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 1289, content: /, id: KR2c0001_krp_010-bkkpn2}
   - {type: variant, offset: 1289, length: 7, content: 闗羽攻曹仁於樊, WYG: ''}
   - {type: substitution, offset: 1289, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
@@ -1446,6 +1447,7 @@ markers:
   - {type: line-break, offset: 5218, content: '', id: KR2c0001_SBCK_010-13b05}
   - {type: indent, offset: 5218, content: 　　　, id: KR2c0001_krp_010-bkkind9}
   - {type: punctuation, offset: 5223, content: (, id: KR2c0001_krp_010-bkkpn4}
+  - {type: voice, offset: 5223, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 5227, content: ), id: KR2c0001_krp_010-bkkpn5}
   - {type: 'kr:newline', offset: 5227, content: '
 
@@ -7496,6 +7498,7 @@ markers:
   - {type: line-break, offset: 27301, content: '', id: KR2c0001_SBCK_010-67a11}
   - {type: punctuation, offset: 27317, content: (, id: KR2c0001_krp_010-bkkpn6}
   - {type: variant, offset: 27317, length: 4, content: 御名太上, WYG: 構}
+  - {type: voice, offset: 27317, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 27319, content: /, id: KR2c0001_krp_010-bkkpn7}
   - {type: punctuation, offset: 27321, content: ), id: KR2c0001_krp_010-bkkpn8}
   - {type: 'kr:newline', offset: 27323, content: '
@@ -8112,6 +8115,7 @@ markers:
   - {type: indent, offset: 29396, content: 　　　, id: KR2c0001_krp_010-bkkind49}
   - {type: page-break, offset: 29396, content: '', id: KR2c0001_WYG_010-91a, image: missing/missing}
   - {type: punctuation, offset: 29402, content: (, id: KR2c0001_krp_010-bkkpn9}
+  - {type: voice, offset: 29402, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 29407, content: ), id: KR2c0001_krp_010-bkkpn10}
   - {type: 'kr:newline', offset: 29407, content: '
 
@@ -8425,6 +8429,7 @@ markers:
   - {type: variant, offset: 30416, length: 5, content: 閒御名太上, WYG: 間構}
   - {type: substitution, offset: 30416, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 30417, content: (, id: KR2c0001_krp_010-bkkpn11}
+  - {type: voice, offset: 30417, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 30419, content: /, id: KR2c0001_krp_010-bkkpn12}
   - {type: punctuation, offset: 30421, content: ), id: KR2c0001_krp_010-bkkpn13}
   - {type: 'kr:newline', offset: 30435, content: '
@@ -9043,6 +9048,7 @@ markers:
   - {type: line-break, offset: 32585, content: '', id: KR2c0001_SBCK_010-80a08}
   - {type: punctuation, offset: 32593, content: (, id: KR2c0001_krp_010-bkkpn14}
   - {type: variant, offset: 32593, length: 4, content: 御名太上, WYG: 搆}
+  - {type: voice, offset: 32593, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 32595, content: /, id: KR2c0001_krp_010-bkkpn15}
   - {type: punctuation, offset: 32597, content: ), id: KR2c0001_krp_010-bkkpn16}
   - {type: substitution, offset: 32599, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
@@ -9630,6 +9636,7 @@ markers:
   - {type: substitution, offset: 34559, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 34560, content: (, id: KR2c0001_krp_010-bkkpn17}
   - {type: variant, offset: 34560, length: 3, content: 南王叛, WYG: ''}
+  - {type: voice, offset: 34560, length: 6, name: note, id: n7}
   - {type: punctuation, offset: 34563, content: /, id: KR2c0001_krp_010-bkkpn18}
   - {type: punctuation, offset: 34566, content: ), id: KR2c0001_krp_010-bkkpn19}
   - {type: variant, offset: 34566, length: 0, content: '', WYG: 南三叛}
@@ -10091,4 +10098,4 @@ markers:
   - {type: variant, offset: 36175, length: 0, content: '', WYG: 託孤之任死於䜿子之手不可謂智遂寝通鑑紀事本末卷十下}
   - {type: page-break, offset: 36175, content: '', id: KR2c0001_WYG_010-111b, image: missing/missing}
   back: []
-hash: sha256:0d4f0d5d6703c777e89977cb6dd0ea82507d3861ac6dd49c8a63915d76f3b365
+hash: sha256:81c21cdb5d5be8a803d022bc4e1235baf072ec7704aaf30fb2098de4cc777dbe

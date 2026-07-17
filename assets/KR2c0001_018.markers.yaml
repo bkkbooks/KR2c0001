@@ -4792,6 +4792,7 @@ markers:
   - {type: line-break, offset: 15144, content: '', id: KR2c0001_SBCK_018-38b04}
   - {type: punctuation, offset: 15151, content: (, id: KR2c0001_krp_018-bkkpn1}
   - {type: variant, offset: 15151, length: 0, content: '', WYG: 流}
+  - {type: voice, offset: 15151, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15152, content: /, id: KR2c0001_krp_018-bkkpn2}
   - {type: variant, offset: 15152, length: 1, content: 流, WYG: ''}
   - {type: punctuation, offset: 15153, content: ), id: KR2c0001_krp_018-bkkpn3}
@@ -5028,6 +5029,7 @@ markers:
   - {type: punctuation, offset: 15911, content: (, id: KR2c0001_krp_018-bkkpn4}
   - {type: variant, offset: 15911, length: 1, content: 𥙿, SBCK: 􅁉}
   - {type: variant, offset: 15911, length: 3, content: 𥙿篡晉, WYG: ''}
+  - {type: voice, offset: 15911, length: 6, name: note, id: n2}
   - {type: variant, offset: 15913, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 15914, content: /, id: KR2c0001_krp_018-bkkpn5}
   - {type: punctuation, offset: 15917, content: ), id: KR2c0001_krp_018-bkkpn6}
@@ -7611,6 +7613,7 @@ markers:
   - {type: variant, offset: 24321, length: 1, content: 脩, WYG: 修之}
   - {type: substitution, offset: 24321, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 24322, content: (, id: KR2c0001_krp_018-bkkpn7}
+  - {type: voice, offset: 24322, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 24323, content: /, id: KR2c0001_krp_018-bkkpn8}
   - {type: variant, offset: 24323, length: 1, content: 之, WYG: ''}
   - {type: punctuation, offset: 24324, content: ), id: KR2c0001_krp_018-bkkpn9}
@@ -7651,6 +7654,7 @@ markers:
   - {type: punctuation, offset: 24435, content: (, id: KR2c0001_krp_018-bkkpn10}
   - {type: variant, offset: 24435, length: 1, content: 𥙿, SBCK: 􅁉}
   - {type: variant, offset: 24435, length: 1, content: 𥙿, WYG: 五事并見劉裕}
+  - {type: voice, offset: 24435, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 24439, content: /, id: KR2c0001_krp_018-bkkpn11}
   - {type: variant, offset: 24439, length: 5, content: 五事並見劉, WYG: ''}
   - {type: punctuation, offset: 24444, content: ), id: KR2c0001_krp_018-bkkpn12}
@@ -11668,4 +11672,4 @@ markers:
       ', id: KR2c0001_krp_018-bkkkrnewl2250}
   - {type: variant, offset: 37875, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:c6953b5ac25febaa556a4d51dc6644f44c16c357550ed179bb15850e2fd4962a
+hash: sha256:84cc1f052afc8d4f6b2c0e99aad06ec3a324dae2ebb514354a776dc919797803

@@ -18,6 +18,7 @@ markers:
   - {type: indent, offset: 0, content: 　　　, id: KR2c0001_krp_012-bkkind1}
   - {type: punctuation, offset: 4, content: (, id: KR2c0001_krp_012-bkkpn1}
   - {type: variant, offset: 4, length: 0, content: '', WYG: 賈氏中諸王}
+  - {type: voice, offset: 4, length: 11, name: note, id: n1}
   - {type: variant, offset: 6, length: 2, content: 中興, WYG: 與}
   - {type: punctuation, offset: 9, content: /, id: KR2c0001_krp_012-bkkpn2}
   - {type: variant, offset: 9, length: 4, content: 賈氏諸王, WYG: ''}
@@ -640,6 +641,7 @@ markers:
   - {type: variant, offset: 1913, length: 1, content: 邊, WYG: 邉}
   - {type: punctuation, offset: 1918, content: (, id: KR2c0001_krp_012-bkkpn7}
   - {type: variant, offset: 1918, length: 0, content: '', WYG: 事見羌}
+  - {type: voice, offset: 1918, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1921, content: /, id: KR2c0001_krp_012-bkkpn8}
   - {type: variant, offset: 1921, length: 3, content: 事見羌, WYG: ''}
   - {type: punctuation, offset: 1924, content: ), id: KR2c0001_krp_012-bkkpn9}
@@ -2616,6 +2618,7 @@ markers:
   - {type: line-break, offset: 8560, content: '', id: KR2c0001_SBCK_012-21b11}
   - {type: punctuation, offset: 8571, content: (, id: KR2c0001_krp_012-bkkpn10}
   - {type: variant, offset: 8571, length: 0, content: '', WYG: 語在𦍑}
+  - {type: voice, offset: 8571, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 8572, content: /, id: KR2c0001_krp_012-bkkpn11}
   - {type: punctuation, offset: 8573, content: /, id: KR2c0001_krp_012-bkkpn12}
   - {type: punctuation, offset: 8574, content: /, id: KR2c0001_krp_012-bkkpn13}
@@ -6577,6 +6580,7 @@ markers:
   - {type: line-break, offset: 21399, content: '', id: KR2c0001_SBCK_012-52b09}
   - {type: punctuation, offset: 21400, content: (, id: KR2c0001_krp_012-bkkpn17}
   - {type: variant, offset: 21400, length: 3, content: 淵僣漢, WYG: ''}
+  - {type: voice, offset: 21400, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 21403, content: /, id: KR2c0001_krp_012-bkkpn18}
   - {type: punctuation, offset: 21406, content: ), id: KR2c0001_krp_012-bkkpn19}
   - {type: variant, offset: 21406, length: 0, content: '', WYG: 淵僭漢}
@@ -12183,4 +12187,4 @@ markers:
       ', id: KR2c0001_krp_012-bkkkrnewl2298}
   - {type: variant, offset: 39432, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:481b33c00e4735d6a301bdc04f8827c001d2c6b5466e08dd3b73d1c8b94ef75c
+hash: sha256:e66fa2f0784ffbe21b65b706ae7e746eee3a1abf112af7031fa099bb9616337e

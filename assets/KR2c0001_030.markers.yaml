@@ -7059,6 +7059,7 @@ markers:
   - {type: line-break, offset: 25684, content: '', id: KR2c0001_SBCK_030-63b01}
   - {type: punctuation, offset: 25689, content: (, id: KR2c0001_krp_030-bkkpn1}
   - {type: variant, offset: 25689, length: 0, content: '', WYG: 孫萬榮圍幽州}
+  - {type: voice, offset: 25689, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 25695, content: /, id: KR2c0001_krp_030-bkkpn2}
   - {type: variant, offset: 25695, length: 6, content: 孫萬榮圍幽州, WYG: ''}
   - {type: punctuation, offset: 25701, content: ), id: KR2c0001_krp_030-bkkpn3}
@@ -13602,4 +13603,4 @@ markers:
       ', id: KR2c0001_krp_030-bkkkrnewl2865}
   - {type: variant, offset: 49127, length: 0, content: '', WYG: 下}
   back: []
-hash: sha256:93c406b211dc7fdd5b6976bb942a9dfc703288eb33f3b887a452f32d89a5f1df
+hash: sha256:ab82ad889a82fde6258dece162493f2747ab5f116c53233f80e50d9b757655aa
